@@ -63,6 +63,10 @@ nav a {
     font-weight: 400;
 }
 
+nav a:hover {
+    color: #2880a5;
+}
+
 #intro {
     background-color: #B9D2DD;
     padding: 50px 25%;
