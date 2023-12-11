@@ -47,7 +47,7 @@ header h2 {
 
 #title h2 {
     align-self: flex-end;
-    padding-right: 300px;
+    padding-right: 250px;
 }
 
 nav {
@@ -90,7 +90,7 @@ nav a {
 
 
 #street {
-    background-color: #FFF7EC;
+    background-image: linear-gradient(#FFF7EC, #ccc6be);
     padding: 150px 400px;
 }
 
