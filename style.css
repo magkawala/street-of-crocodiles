@@ -1,0 +1,110 @@
+body, h1, h2, p, a {
+    margin: 0;
+    color: #232521;
+}
+
+h1, h2 {
+    font-family: Rubik Bubbles;
+    font-size: 150px;
+}
+
+h2 {
+    font-size: 64px;
+    padding-bottom: 20px;
+    font-weight: 100;
+}
+
+p, a {
+    font-family: Itim;
+    font-size: 24px;
+    padding-top: 40px;
+}
+
+img {
+    padding-top: 50px;
+}
+
+header {
+    height: 100vh;
+    background-image: url(images/header.jpg);
+    background-size: cover;
+}
+
+header h2 {
+    font-family: Griffy;
+    font-size: 32px;
+    font-weight: 400;
+    padding: 0;
+}
+
+#title {
+    margin: 0 50px;
+    padding-top: 300px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#title h2 {
+    align-self: flex-end;
+    padding-right: 300px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 25px 100px 0 100px;
+}
+
+nav a {
+    text-decoration: none;
+    font-family: Griffy;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+#intro {
+    background-color: #B9D2DD;
+    padding: 50px 400px;
+}
+
+#intro p {
+    font-size: 32px;
+    font-style: italic;
+    padding: 0;
+}
+
+
+#lumi {
+    background-image: linear-gradient(#FFF7EC, #ccc6be);
+    padding: 150px 400px;
+}
+
+
+
+#market {
+    background-color: #B9D2DD;
+    padding: 150px 400px;
+}
+
+
+
+#street {
+    background-color: #FFF7EC;
+    padding: 150px 400px;
+}
+
+footer {
+    background-color: #B9D2DD;
+    padding: 150px 400px;
+    text-align: center;
+}
+
+footer p {
+    padding: 0;
+}
+
+.imgs {
+    display: flex;
+    justify-content: space-between;
+}
